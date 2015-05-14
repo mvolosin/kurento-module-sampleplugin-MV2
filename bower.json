@@ -35,7 +35,6 @@
     "merge": "*",
     "minifyify": "^4.4.0",
     "grunt-contrib-clean": "~0.6.0",
-    "grunt-path-check": "^0.9.3",
     "grunt-shell": "^1.1.1",
     "bootstrap": "~3.3.0",
     "ekko-lightbox": "~3.2.3",
