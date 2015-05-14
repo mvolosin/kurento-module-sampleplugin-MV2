@@ -31,7 +31,6 @@
     "grunt-cli": "~0.1.13",
     "kurento-client": "^5.1.0",
     "merge": "*",
-    "minifyify": "^4.4.0",
     "grunt-contrib-clean": "~0.6.0",
     "grunt-shell": "^1.1.1",
     "bootstrap": "~3.3.0",
