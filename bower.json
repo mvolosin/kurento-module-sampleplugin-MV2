@@ -29,7 +29,6 @@
     "bower": "*",
     "grunt": "~0.4.5",
     "grunt-cli": "~0.1.13",
-    "jsonfile": "^2.0.0",
     "kurento-client": "^5.1.0",
     "merge": "*",
     "minifyify": "^4.4.0",
