@@ -28,7 +28,6 @@
     "kurento-client-filters": "Kurento/kurento-client-filters-js#release-5.1",
     "bower": "*",
     "grunt": "~0.4.5",
-    "grunt-browserify": "^3.1.0",
     "grunt-cli": "~0.1.13",
     "grunt-jsdoc": "~0.5.7",
     "grunt-npm2bower-sync": "^0.4.0",
